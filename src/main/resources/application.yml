@@ -1,0 +1,6 @@
+#通用数据源配置
+spring:
+      security:
+        user:
+          name: admin
+          password: admin
